@@ -1,4 +1,4 @@
-### by using this file we can done all local operations (commands) automatically for uploading repository to github.
+### by using this file we can done all local operations (commands) automatically for uploading project to github repository.
 ## Download:
 by following this steps:
 ### 1. clone the repository

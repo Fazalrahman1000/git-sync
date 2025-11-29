@@ -5,3 +5,12 @@ by following this steps:
 ```bash
 git clone https://github.com/Fazalrahman1000/git-sync.git
 ```
+### 2. go to the directory where you cloned this repository
+### 3. make this file executable
+```bash
+chmod +x git_sync
+```
+### 4. run the file with your repository name
+```bash
+git_sync your-project-name
+```

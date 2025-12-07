@@ -14,3 +14,4 @@ chmod +x git_sync
 ```bash
 git_sync your-project-name
 ```
+# bootstrap
